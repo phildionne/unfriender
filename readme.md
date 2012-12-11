@@ -1,8 +1,9 @@
 # Unfriender
+A tiny ruby app to programmatically unfriend your facebook friends
 
 ## Getting started
 1. Get all your facebook friends: `https://graph.facebook.com/me/friends?access_token=ACCESS_TOKEN` and select the ids of those you'd like to unfriend
-2. Set FACEBOOK_USERNAME and FACEBOOK_PASSWORD environement variables.
+2. Set `FACEBOOK_USERNAME` and `FACEBOOK_PASSWORD` environement variables.
 3. Run:
 
 ```
