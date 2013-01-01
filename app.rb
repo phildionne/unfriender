@@ -6,7 +6,6 @@ Capybara.default_driver = :selenium
 Capybara.app_host = 'http://www.facebook.com'
 
 module UnfrienderApp
-
   class Unfriender
     include Capybara::DSL
 
