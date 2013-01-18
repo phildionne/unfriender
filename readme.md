@@ -1,5 +1,5 @@
 # Unfriender
-A tiny ruby app to speedup facebook unfriending
+A tiny ruby app to speed up facebook unfriending
 
 ## Getting started
 1. Go to `https://developers.facebook.com/docs/reference/api/`
@@ -9,7 +9,7 @@ A tiny ruby app to speedup facebook unfriending
 
 ```
 bundle install
-ruby "app.rb"
+ruby app.rb
 ```
 
 ---
