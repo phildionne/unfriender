@@ -3,7 +3,7 @@ A tiny ruby app to speed up facebook unfriending
 
 ## Getting started
 1. Go to `https://developers.facebook.com/docs/reference/api/examples/`
-2. Get all your facebook friends: `https://graph.facebook.com/me/friends?access_token=ACCESS_TOKEN` and select the ids of those you'd like to unfriend
+2. Get all your facebook friends: `https://graph.facebook.com/me/friends?access_token=ACCESS_TOKEN`, select the ids of those you'd like to unfriend and paste them in friends.txt (1 per line).
 3. Set `FACEBOOK_USERNAME` and `FACEBOOK_PASSWORD` environment variables
 4. Run:
 
